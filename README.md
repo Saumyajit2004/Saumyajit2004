@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Saumyajit Sarkar 👋
 
-<!--
-**Saumyajit2004/Saumyajit2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student at KIIT  
+💻 Aspiring Software Developer & ML Enthusiast  
+📍 West Bengal, India  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+- Passionate about **Data Analysis & Machine Learning**
+- Experience in **model evaluation and working with imbalanced datasets**
+- Interested in building **data-driven and scalable solutions**
+- Always eager to learn and explore new technologies  
+
+
+
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, C  
+- **Web:** HTML, CSS, JavaScript, React  
+- **ML/Data:** Scikit-learn, Pandas, NumPy, Tableau  
+- **Database:** SQL, DBMS  
+
+
+
+## 📌 Featured Project
+### Credit Card Fraud Detection
+- Compared 6 ML models on imbalanced dataset  
+- Implemented **Naive Bayes with SMOTE & threshold tuning**  
+- Achieved **~87% recall**  
+- Best model: **XGBoost (F1 ≈ 0.88)**  
+
+👉 (Add your repo link here)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/saumyajit-sarkar-b30a482b1/)
+- Email: 2306220@kiit.ac.in  
