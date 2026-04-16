@@ -34,5 +34,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/saumyajit-sarkar-b30a482b1/)
+- LinkedIn: https://www.linkedin.com/in/saumyajit-sarkar-b30a482b1/
 - Email: 2306220@kiit.ac.in  
